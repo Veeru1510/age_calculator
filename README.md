@@ -1,2 +1,2 @@
-# age_calculator
+# Age_calculator
 Check out your age here
